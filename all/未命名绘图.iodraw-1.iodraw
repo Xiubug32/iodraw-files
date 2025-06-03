@@ -4,28 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7ALHVkCw4o6NDvrpBzAK-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="162" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="140" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" target="7ALHVkCw4o6NDvrpBzAK-5" edge="1">
+        <mxCell id="7ALHVkCw4o6NDvrpBzAK-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="280" y="390" as="sourcePoint" />
-            <mxPoint x="440" y="390" as="targetPoint" />
+            <mxPoint x="254.6875" y="660" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#0A0A0A;" parent="1" vertex="1">
-          <mxGeometry x="200" y="660" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="370" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-8" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;fillColor=#000000;fillStyle=solid;strokeColor=#F7F7F7;labelBackgroundColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="70" y="640" width="60" height="60" as="geometry" />
