@@ -29,7 +29,7 @@
             <mxPoint x="390" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-6" value="" style="swimlane;html=1;startSize=50;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;glass=0;" vertex="1" parent="1">
+        <mxCell id="7ALHVkCw4o6NDvrpBzAK-6" value="" style="swimlane;html=1;startSize=50;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;glass=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0.39,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.23,0,57,0],[1,0.5,0,13,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
