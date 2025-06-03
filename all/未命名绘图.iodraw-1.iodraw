@@ -29,9 +29,6 @@
             <mxPoint x="390" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ALHVkCw4o6NDvrpBzAK-6" target="7ALHVkCw4o6NDvrpBzAK-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-6" value="" style="swimlane;html=1;startSize=50;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;glass=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="220" height="130" as="geometry" />
         </mxCell>
@@ -40,9 +37,6 @@
         </mxCell>
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-8" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;fillColor=#000000;fillStyle=solid;strokeColor=#F7F7F7;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="370" y="570" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-42" value="" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=50;strokeWidth=2;swimlaneFillColor=#ffffff;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
