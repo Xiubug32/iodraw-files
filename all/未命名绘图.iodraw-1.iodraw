@@ -30,7 +30,7 @@
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-8" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="7ALHVkCw4o6NDvrpBzAK-8" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;fillColor=#000000;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="370" y="570" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
