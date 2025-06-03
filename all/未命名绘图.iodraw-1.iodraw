@@ -24,20 +24,19 @@
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#0A0A0A;" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ALHVkCw4o6NDvrpBzAK-6" target="7ALHVkCw4o6NDvrpBzAK-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7ALHVkCw4o6NDvrpBzAK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ALHVkCw4o6NDvrpBzAK-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-6" value="" style="swimlane;html=1;startSize=30;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="30" width="220" height="130" as="geometry" />
+          <mxGeometry x="280" y="40" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="7ALHVkCw4o6NDvrpBzAK-8" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;fillColor=#000000;fillStyle=solid;strokeColor=#F7F7F7;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="370" y="570" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7ALHVkCw4o6NDvrpBzAK-40" value="" style="swimlane;html=1;startSize=30;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="220" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
